@@ -1,0 +1,24 @@
+body {
+  background-color: burlywood;
+  font-family: fantasy;
+}
+.if{
+border: solid 3px;
+border-color: blue;
+border-radius: 10px;
+color: white;
+font-family: cursive;
+background-color: black;
+}
+
+.ep {
+  border: solid 3px;
+  border-color: yellow;
+  border-radius: 10px;
+  color: white;
+  font-family: cursive;
+  background-color: black;
+}
+img {
+  margin-left:  120px;
+}
